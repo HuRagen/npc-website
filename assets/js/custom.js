@@ -35,7 +35,7 @@
 		// Countdown init
 		if($('.countdown').length){
 			$('.countdown').downCount({
-				date: '07/01/2018 12:00:00',
+				date: '08/01/2018 12:00:00',
 				offset: +10
 			});
 		}	
